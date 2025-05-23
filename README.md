@@ -18,7 +18,7 @@ También estudio 📐 Ingeniería en Computación.
 
 ## 🚀 Proyectos Destacados
 
-- 🌐 [Mi Portafolio Web](#): Sitio web personal donde muestro mis trabajos y habilidades.
+- 🌐 [Mi Portafolio Web](https://gabodev23.github.io/): Sitio web personal donde muestro mis trabajos y habilidades.
 
 > 💡 Estoy desarrollando un proyecto web por semana para mejorar habilidades y crear soluciones útiles.
 
